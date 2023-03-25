@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello Uday your maven project was completed!</h2>
 </body>
 </html>
